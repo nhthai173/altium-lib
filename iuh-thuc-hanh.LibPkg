@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PXXHISHG
 
 [Document4]
-DocumentPath=CON.PcbLib
+DocumentPath=CONNECTOR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
