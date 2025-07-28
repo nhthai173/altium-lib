@@ -1,7 +1,21 @@
+# macOS system files
 .DS_Store
-History/*
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Altium Designer output files
+History/
 */History/*
-__Previews/*
-Project Outputs for iuh-thuc-hanh/*
-Other Libraries/LIBRARY1/Project Outputs for LIBRARY1/*
-Other libraries/KhueNguyen/Project Outputs for Altium_Lib_by_KhueNguyenCreator/*
+__Previews/
+*/__Previews/*
+
+# Project output directories
+Project Outputs*/
+**/Project Outputs*/
+Project Logs*/
+**/Project Logs*/
+Other libraries/*/Project Outputs*/*
